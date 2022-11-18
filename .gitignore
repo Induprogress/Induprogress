@@ -10,6 +10,7 @@
 *.bootinfo_guids
 *.compileinfo
 *.xml
+*.pdf
 *.simulation.bootinfo
 *.simulation.bootinfo_guids
 *.project.~u
