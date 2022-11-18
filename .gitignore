@@ -1,0 +1,17 @@
+##			 ##
+##  CODESYS IGNORE FILE  ##
+##			 ##
+
+
+*.backup
+*.tgs
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.xml
+*.simulation.bootinfo
+*.simulation.bootinfo_guids
+*.project.~u
+*.library.~u
+*.projectarchive
